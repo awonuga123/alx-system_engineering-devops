@@ -19,3 +19,4 @@ Write a script that changes the owner to vincent and the group owner to staff fo
 script that changes the owner of the file hello to betty only if it is owned by the user guillaume
 script that changes the owner of the file hello to betty only if it is owned by the user guillaume
 script that will play the StarWars IV episode in the terminal
+script that sets the mode of the file hello the same as olleh’s mode
