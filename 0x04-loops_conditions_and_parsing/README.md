@@ -28,7 +28,7 @@ tasks `102` and `103`.
 * **4. If 9, say Hi!**
   * [4-if_9_say_hi](./4-if_9_say_hi): Bash script that displays `Best School`
   10 times using a `while` loop.
-  * For the 9th iteration, displays `Holberton School` and then `Hi` on a
+  * For the 9th iteration, displays `Best School` and then `Hi` on a
   new line.
   * Uses an `if` statement.
 
@@ -37,7 +37,7 @@ tasks `102` and `103`.
   from 1 to 10 using a `while` loop and:
     * Displays `bad luck` on the 4th iteration.
     * Displays `good luck` on the 8th iteration.
-    * Displays `Holberton School` for all other iterations.
+    * Displays `Best School` for all other iterations.
   * Uses the `if`, `elif`, and `else` statements.
 
 * **6. Superstitious numbers**
