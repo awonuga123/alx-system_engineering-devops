@@ -1,8 +1,8 @@
 #!/usr/bin/env bash
 # Configure my domain zone:
-# www --> 914-lb-01 3.83.192.251
-# web-01 --> 914-web-01 18.205.38.219
-# web-02 --> 914-web-02 34.138.16.188
+# www --> 65495-lb-01 54.209.199.81
+# web-01 --> 65495-web-01 54.236.49.46
+# web-02 --> 65495-web-02 54.164.135.88
 
 # -- To be evaluated --
 # domain_information () {
