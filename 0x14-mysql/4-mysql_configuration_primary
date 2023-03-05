@@ -1,3 +1,5 @@
+# This program is free software; you can redistribute it and/or modify
+# it under the terms of the GNU General Public License, version 2.0,
 # as published by the Free Software Foundation.
 #
 # This program is also distributed with certain software (including
@@ -29,8 +31,8 @@ datadir         = /var/lib/mysql
 log-error       = /var/log/mysql/error.log
 # By default we only accept connections from localhost
 bind-address    = 54.236.49.46
+server-id       = 1
+log_bin         = /var/log/mysql/mysql-bin.log
+binlog_do_db    = tyrell_corp
 # Disabling symbolic-links is recommended to prevent assorted security risks
 symbolic-links=0
-server-id               = 1
-log_bin                       = /var/log/mysql/mysql-bin.log
-binlog_do_db          = tyrell_corp
